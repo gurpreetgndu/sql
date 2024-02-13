@@ -1,2 +1,0 @@
-# sql
-to practice sql
